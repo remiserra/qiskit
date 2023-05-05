@@ -1,3 +1,5 @@
 numpy>=1.23.5
 matplotlib>=3.7.1
+ipympl>=0.9.3
 qiskit>=0.42.1
+pylatexenc>=2.10
