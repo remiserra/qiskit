@@ -1,3 +1,5 @@
+#!python3
+
 #pip install qiskit
 
 # https://www.youtube.com/watch?v=yGzmA98D0eU
